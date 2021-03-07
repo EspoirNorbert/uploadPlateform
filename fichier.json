@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "groupe": "senegal",
+        "url": "http://localhost/AgilePlateform/fichiers/TP2_CV_Tech_cote_Cli.zip"
+    },
+    {
+        "id": 2,
+        "groupe": "Rwanda",
+        "url": "http://localhost/AgilePlateform/fichiers/TP2_CV_Tech_cote_Cli (2).zip"
+    }
+]
