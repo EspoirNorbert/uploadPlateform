@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "folder_name": "test intrusions",
+        "folder_url": "http://localhost/postfiles/folders/61100f56933302.87515606.zip",
+        "folder_publish_date": "2021-08-08 17:07:34",
+        "folder_author": {
+            "lastname": "Habiba",
+            "firstname": "Ogueye"
+        }
+    },
+    {
+        "id": 2,
+        "folder_name": "MongoDB et express",
+        "folder_url": "http://localhost/postfiles/folders/611013ea9ed103.17119719.zip",
+        "folder_publish_date": "2021-08-08 17:27:06",
+        "folder_author": {
+            "lastname": "Luc",
+            "firstname": "ouedraogo"
+        }
+    },
+    {
+        "id": 3,
+        "folder_name": "webappe two xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "folder_url": "http://localhost/postfiles/folders/61101495dd0e85.37729420.zip",
+        "folder_publish_date": "2021-08-08 17:29:57",
+        "folder_author": {
+            "lastname": "Luc",
+            "firstname": "ouedraogo"
+        }
+    }
+]
